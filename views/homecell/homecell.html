@@ -1,0 +1,12 @@
+<div ng-controller="homecellController as hcCtrl" >
+
+	<!--<ng-include src="'index.php'" ng-show="displayMode='default'"></ng-include>
+	<ng-include src="'list.php'" ng-show="displayMode='index'"></ng-include> -->
+	<ng-include src="'views/homecell/add.php'" ng-show="displayMode == 'add'"></ng-include>
+	<ng-include src="'views/homecell/list.php'" ng-show="displayMode == 'list'"></ng-include>
+	<ng-include src="'views/homecell/edit.php'" ng-show="displayMode == 'edit'"></ng-include>
+	<ng-include src="'views/homecell/edit_details.php'" ng-show="displayMode == 'edit_details'"></ng-include>
+	<ng-include src="'views/homecell/delete.php'" ng-show="displayMode == 'delete'"></ng-include>
+	<ng-include src="'views/homecell/index.php'" ng-show="displayMode == 'default'"></ng-include>
+
+</div>

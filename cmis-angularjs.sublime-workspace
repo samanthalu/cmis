@@ -1,0 +1,1143 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"dis",
+				"displayMode"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sam",
+				"Samanthalu"
+			],
+			[
+				"view",
+				"viewMember"
+			],
+			[
+				"row",
+				"row_num"
+			],
+			[
+				"row_",
+				"row_number"
+			],
+			[
+				"su",
+				"successful"
+			],
+			[
+				"db",
+				"db_vars"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"ba",
+				"baptism"
+			],
+			[
+				"sunday",
+				"sunday_class"
+			],
+			[
+				"mi",
+				"middlename"
+			],
+			[
+				"D",
+				"DB_PASS"
+			],
+			[
+				"DB",
+				"DB_USER"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"min",
+				"ministry"
+			],
+			[
+				"memberhs",
+				"Membership"
+			],
+			[
+				"mini",
+				"miniName"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"mar",
+				"marital_status"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"txt",
+				"txt2"
+			],
+			[
+				"tx",
+				"txt1"
+			],
+			[
+				"col",
+				"colB"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"text",
+				"textField"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"te",
+				"list-style-type"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6407,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/css/ngAnimate.css",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/homecell/index.php",
+			"settings":
+			{
+				"buffer_size": 3799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homecell/homecell.html",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homecell/edit_details.php",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/members/add/add_member.php",
+			"settings":
+			{
+				"buffer_size": 6221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/controllers/homecellController.js",
+			"settings":
+			{
+				"buffer_size": 3399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/members/add/process.php",
+			"settings":
+			{
+				"buffer_size": 4826,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/usr/share/php/class_form.php",
+			"settings":
+			{
+				"buffer_size": 9403,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 2239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/homecell/list.php",
+			"settings":
+			{
+				"buffer_size": 2721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homecell/edit.php",
+			"settings":
+			{
+				"buffer_size": 2955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homecell/delete.php",
+			"settings":
+			{
+				"buffer_size": 2693,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homecell/config.php",
+			"settings":
+			{
+				"buffer_size": 2243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/controllers/formController.js",
+			"settings":
+			{
+				"buffer_size": 4360,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"v",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/cmis",
+		"/var/www/cmis/common",
+		"/var/www/cmis/common/classes",
+		"/var/www/cmis/views",
+		"/var/www/cmis/views/events",
+		"/var/www/cmis/views/homecell",
+		"/var/www/cmis/views/members"
+	],
+	"file_history":
+	[
+		"/var/www/cmis/js/controllers/mainController.js",
+		"/var/www/cmis/pages/members/add/process.php",
+		"/var/www/cmis/common/functions/validate.php",
+		"/usr/share/php/validate.php",
+		"/var/www/cmis/login.php",
+		"/var/www/cmis/js/controllers/viewController.js",
+		"/var/www/cmis/views/members/index.php",
+		"/var/www/cmis/views/homecell/index.php",
+		"/var/www/cmis/views/homecell/add.php",
+		"/var/www/cmis/views/homecell/homecell.html",
+		"/var/www/cmis/views/homecell/test.html",
+		"/var/www/cmis/views/homecell/edit.php",
+		"/var/www/cmis/common/classes/class_form.php",
+		"/usr/share/php/class_form.php",
+		"/var/www/cmis/js/app.js",
+		"/home/sam/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sam/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/cmis/scripts/app.js",
+		"/home/sam/remote/saris/common/menu_side.php",
+		"/var/www/cmis/pages/members/add/get_data.php",
+		"/var/www/cmis/pages/members/view/view.php",
+		"/var/www/cmis/pages/members/view/get_member_details.php",
+		"/var/www/cmis/pages/members/view/list_members.php",
+		"/var/www/cmis/pages/members/view/get_data.php",
+		"/var/www/cmis/includes/js/app.js",
+		"/var/www/cmis/includes/classes/class_form.php",
+		"/var/www/cmis/pages/members/add/add_member.php",
+		"/var/www/cmis/pages/members/index.php",
+		"/var/www/cmis/pages/members/view/view_member.php",
+		"/var/www/cmis/pages/members/add/save_add_member.php",
+		"/var/www/cmis/includes/functions/db.php",
+		"/var/www/cmis/includes/functions/validate.php",
+		"/var/www/cmis/pages/members/add/form.php",
+		"/var/www/cmis/pages/contact.html",
+		"/var/www/cmis/includes/css/pages.css",
+		"/var/www/cmis/index.php",
+		"/var/www/cmis/includes/classes/class_breadcrumbs.php",
+		"/C/vhosts/test/includes/css/dashboard.css",
+		"/C/vhosts/test/includes/css/pages.css",
+		"/C/vhosts/test/includes/js/controllers.js",
+		"/C/vhosts/test/includes/classes/class_validation.php",
+		"/C/vhosts/test/pages/members/add_member.php",
+		"/C/vhosts/test/index.html",
+		"/C/vhosts/test/pages/index.php",
+		"/C/vhosts/test/public/index.php",
+		"/C/vhosts/test/welcome.php",
+		"/C/vhosts/test/index4.php",
+		"/C/vhosts/test/includes/js/app.js",
+		"/C/vhosts/test/includes/js/cmis.js",
+		"/C/vhosts/cmis/pages/members/member.js",
+		"/C/vhosts/cmis/welcome.php",
+		"/C/vhosts/cmis/login.php",
+		"/C/vhosts/cmis/includes/css/style.css",
+		"/C/vhosts/cmis/includes/css/pages.css",
+		"/C/vhosts/cmis/index.php",
+		"/C/vhosts/cmis/includes/classes/class_breadcrumbs.php",
+		"/C/vhosts/cmis/index44.php",
+		"/C/vhosts/cmis/test2.php",
+		"/C/vhosts/cmis/test.php",
+		"/C/wamp/www/test/sb-admin-2/index.html",
+		"/C/vhosts/cmis/includes/js/cmis.js",
+		"/C/wamp/www/test/sb-admin-2/css/sb-admin-2.css",
+		"/C/wamp/www/test/sb-admin-2/js/sb-admin-2.js",
+		"/C/wamp/www/test/sb-admin-2/js/plugins/metisMenu/metisMenu.js",
+		"/C/wamp/www/test/sb-admin/index.html",
+		"/C/wamp/www/projects/bio/pages/qualityseedlings.php",
+		"/C/wamp/www/projects/bio/pages/ourstory.php",
+		"/C/wamp/www/projects/bio/pages/cashcrops.php",
+		"/C/wamp/www/projects/bio/pages/plantbio.php",
+		"/C/wamp/www/projects/bio/pages/order.php",
+		"/C/wamp/www/projects/bio/pages/massmult.php",
+		"/C/wamp/www/projects/bio/pages/urban.php",
+		"/C/wamp/www/projects/bio/pages/seedlings.php",
+		"/C/wamp/www/projects/bio/pages/ornamentals.php",
+		"/C/wamp/www/projects/bio/pages/contact.php",
+		"/C/wamp/www/projects/bio/menu_index.php",
+		"/C/wamp/www/projects/bio/menu_pages.php",
+		"/C/wamp/www/projects/bio/includes/css/style.css",
+		"/C/wamp/www/projects/bio/index.php",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/wamp/www/projects/bio/pages/staff.php",
+		"/C/wamp/www/projects/bio/pages/tech.php",
+		"/C/wamp/www/projects/bio/pages/facilities.php",
+		"/C/wamp/www/projects/bio/pages/history.php",
+		"/C/wamp/www/projects/bio/pages/partnerships.php",
+		"/C/wamp/www/projects/bio/pages/vmg.php",
+		"/C/wamp/www/projects/bio/pages/buzinessmodel.php",
+		"/C/wamp/www/projects/bio/footer.php",
+		"/C/wamp/www/test/bootstrap-3.2.0/docs/index.html",
+		"/C/vhosts/cmis/index4.php",
+		"/C/vhosts/cmis/index.html",
+		"/C/wamp/www/test/sb-admin-v2/index.html",
+		"/C/vhosts/cmis/dashboard.css",
+		"/C/vhosts/cmis/includes/css/sb-admin.css",
+		"/C/wamp/www/test/sb-admin/forms.html",
+		"/C/wamp/www/test/sb-admin/charts.html",
+		"/C/vhosts/cmis/index2.php",
+		"/C/Users/Test/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Test/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"style",
+			"search",
+			"when",
+			"content",
+			"displayMode",
+			"data",
+			"create_textArea",
+			"frmVals",
+			"myForm",
+			"ng-model=\\",
+			"hc_name",
+			"member",
+			"members",
+			"scripts",
+			"includes/js",
+			"includes",
+			"mem",
+			"dob",
+			"Firstname",
+			"addMemberCtrl",
+			"font",
+			">&",
+			"metisMenu",
+			"VALUE",
+			"Products"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"state",
+			"messages",
+			"homecell",
+			"Homecell",
+			"homecell",
+			"Homecell",
+			"homecell",
+			"js",
+			"scripts/vendor",
+			"styles",
+			"row"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								974,
+								974
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/css/ngAnimate.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1720,
+								1720
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/homecell/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1388,
+								1388
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 31.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/homecell/homecell.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/homecell/edit_details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/members/add/add_member.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2259,
+								2259
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/controllers/homecellController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2007,
+								2007
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/members/add/process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/usr/share/php/class_form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "views/homecell/list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1249,
+								1249
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 387.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "views/homecell/edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1675,
+								1675
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 307.0,
+						"translation.y": 333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "views/homecell/delete.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1674,
+								1674
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "views/homecell/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2193,
+								2193
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "js/controllers/formController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4330,
+								4330
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "cmis-angularjs.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
